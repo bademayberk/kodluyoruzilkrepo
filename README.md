@@ -5,7 +5,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Git eğitimi kapsamında yapılmas�
 ## Installation
 Öncelikle repo'yu klonlayın. Repo'yu klonlama işlemi:
 ```
-
 git clone https://github.com/bademayberk/kodluyoruzilkrepo.git
 ```
 
